@@ -79,7 +79,7 @@ const ScratchCard = () => {
           }}
         >
           <img
-            src="/sakura.jpg"
+            src={`${process.env.PUBLIC_URL}/sakura.jpg`}
             alt="hidden surprise"
             style={{
               width: "100%",
