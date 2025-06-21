@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scratch/static/css/main.c911a9af.css",
+    "main.js": "/scratch/static/js/main.aa9c8aa2.js",
+    "index.html": "/scratch/index.html",
+    "main.c911a9af.css.map": "/scratch/static/css/main.c911a9af.css.map",
+    "main.aa9c8aa2.js.map": "/scratch/static/js/main.aa9c8aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c911a9af.css",
+    "static/js/main.aa9c8aa2.js"
+  ]
+}
